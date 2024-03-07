@@ -5,9 +5,9 @@ Created on Wed Mar  6 11:14:37 2024
 @author: Baalaji.Ravichandran
 """
 #Import Pywake
-try:
-    import  py_wake
-except ModuleNotFoundError:
+
+import  py_wake
+ # except ModuleNotFoundError:
   #  !pip install git+https://gitlab.windenergy.dtu.dk/TOPFARM/PyWake.git
 
 # Importing Hornrev1Site
